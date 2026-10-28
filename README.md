@@ -1,1 +1,1 @@
-# muse-liberary
+# muse-library
